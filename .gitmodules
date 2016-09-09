@@ -1,0 +1,3 @@
+[submodule "lib/RDF"]
+	path = lib/RDF
+	url = ssh://bil@linux.eldis.cz/home/git/test_lib.git
