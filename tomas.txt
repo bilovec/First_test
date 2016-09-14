@@ -3,3 +3,4 @@ tomasova zmena
 tohle pridal Vlada
 2.zmena Tomas
 3.zmena Tomas
+4.zmena propokus o vetev
